@@ -18,3 +18,5 @@ CSA1284
 16. 4 stage pipeline
 17. booths multiplication
 18. booths restoring division
+19. hit ratio of hit and miss
+20. ALP to find 1's and 2's complement of 8 bit
