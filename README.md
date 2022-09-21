@@ -13,7 +13,8 @@ CSA1284
 11. 2 bit half adder using NAND gates
 12. factorial of n numbers
 13. largest number in an array
-14. 
-15.
-16.
+14. 2 stage pipeline
+15. 3 stage pipeline
+16. 4 stage pipeline
 17. booths multiplication
+18. booths restoring division
