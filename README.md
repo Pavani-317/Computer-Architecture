@@ -19,4 +19,9 @@ CSA1284
 17. booths multiplication
 18. booths restoring division
 19. hit ratio of hit and miss
-20. ALP to find 1's and 2's complement of 8 bit
+20. ALP to find 1's and 2's complement of 8 bit using 8085
+21. decimal to binary conversion
+22. decimal to octal conversion
+23. binary to decimal conversion
+24. cpu performance
+25.swap to 8 bit data using 8085
