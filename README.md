@@ -24,4 +24,4 @@ CSA1284
 22. decimal to octal conversion
 23. binary to decimal conversion
 24. cpu performance
-25.swap to 8 bit data using 8085
+25. swap to 8 bit data using 8085
